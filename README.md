@@ -45,15 +45,6 @@ Cada receita mostra os **ingredientes**, o **benefício para a saúde** e a **im
 
 ---
 
-## 📷 Prévia do Projeto  
-> *(adicione aqui uma imagem ou gif mostrando o site rodando)*
-
----
-
-## 📌 Como Executar  
-1. Clone este repositório  
-```bash
-git clone https://github.com/seu-usuario/monte-seu-suco.git
 
 💡 Ideias Futuras
 
